@@ -67,7 +67,7 @@ afterEvaluate {
         repositories {
             maven {
                 name = "GitHubPackages"
-                url = uri("https://maven.pkg.github.com/afzalive/android-tv-provider")
+                url = uri("https://maven.pkg.github.com/torrentcome/android-tv-provider")
 
                 credentials {
                     username = System.getenv("USERNAME")
